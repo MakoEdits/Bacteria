@@ -1,7 +1,7 @@
 # Bacteria
 Faux bacteria simulator made in Processing
 
-Known bugs:
+# Known bugs:
 
 Chance for ZeroDivisionError
 
