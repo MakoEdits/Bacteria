@@ -1,5 +1,5 @@
-# Bacteria
-Faux bacteria simulator made in Processing
+# Bacteria (Unpolished)
+Faux bacteria simulator made in Processing as an assignment
 
 # Known bugs:
 
