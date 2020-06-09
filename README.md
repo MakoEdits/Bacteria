@@ -1,6 +1,8 @@
 # Bacteria (Unpolished)
 Faux bacteria simulator made in Processing as an assignment
 
+![Bacteria Demo]{Bacteria.png}
+
 # Known bugs:
 
 Chance for ZeroDivisionError
